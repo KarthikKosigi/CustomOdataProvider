@@ -1,0 +1,5 @@
+com/custom/odataprovider/ODataProcessor.class
+com/custom/odataprovider/App.class
+com/custom/odataprovider/DataProvider$DataProviderException.class
+com/custom/odataprovider/EdmProvider.class
+com/custom/odataprovider/DataProvider.class
